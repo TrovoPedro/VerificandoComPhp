@@ -1,0 +1,13 @@
+[{
+"login": "trovo@gmail.com", "senha": "12345"
+},{
+"login": "julia@gmail.com", "senha": "12345"
+},{
+"login": "login@gmail.com", "senha": "4321"
+},{
+"login": "sla@gmailmail.com", "senha": "54321"
+},{
+"login": "aaaa@outlook.com", "senha": "12345"
+},{
+"login": "alguamcoisa@gmail.com", "senha": "12345"
+}]
